@@ -24,7 +24,7 @@ import javax.swing.border.EmptyBorder;
 
 /**
  * 
- * @author:  emmanuel  
+ *  
  */
 public class Conversor extends JFrame {
 
